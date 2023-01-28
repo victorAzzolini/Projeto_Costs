@@ -23,13 +23,6 @@
       "id": 2
     },
     {
-      "name": "Pedro",
-      "budget": "5",
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
       "name": "Victor Azzolini do Nascimento",
       "budget": "7",
       "category": {
@@ -39,6 +32,35 @@
       "cost": 0,
       "services": [],
       "id": 4
+    },
+    {
+      "name": "Teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    },
+    {
+      "name": "TESTAndo",
+      "budget": "1030130103103",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "Victor Azzolini do Nascimento",
+      "budget": "3",
+      "cost": 0,
+      "services": [],
+      "id": 7
     }
   ],
   "categories": [
