@@ -30,6 +30,7 @@ function ProjectForm({handleSubmit, btnText, projectData}){
     const submit = (e) => {
         e.preventDefault()
         //console.log(project)
+        console.log(categories)
         handleSubmit(project)
         
     }
@@ -71,7 +72,7 @@ function ProjectForm({handleSubmit, btnText, projectData}){
                 text="Selecione a categoria"
                 options={categories}
                 handleOnChange={handleCategory}
-                value={project.category ? project.category.id : " "}
+                value={project.category ? project.category.id : ""}
 
             />
             <SubmitButton 

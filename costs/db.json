@@ -1,69 +1,22 @@
 {
   "projects": [
     {
-      "name": "Azzolini",
-      "budget": "9",
+      "name": "Pedro",
+      "budget": "24",
       "category": {
         "id": "3",
         "name": "Design"
       },
       "cost": 0,
       "services": [],
-      "id": 1
-    },
-    {
-      "name": "Victor",
-      "budget": "22",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "name": "Victor Azzolini do Nascimento",
-      "budget": "7",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
-    },
-    {
-      "name": "Teste",
-      "budget": "5000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 5
-    },
-    {
-      "name": "TESTAndo",
-      "budget": "1030130103103",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 6
-    },
-    {
-      "name": "Victor Azzolini do Nascimento",
-      "budget": "3",
-      "cost": 0,
-      "services": [],
-      "id": 7
+      "id": 3
     }
   ],
   "categories": [
+    {
+      "id": 0,
+      "name": "Selecione uma opção"
+    },
     {
       "id": 1,
       "name": "Infra"
@@ -79,6 +32,10 @@
     {
       "id": 4,
       "name": "Planejamento"
+    },
+    {
+      "id": 5,
+      "name": "teste"
     }
   ]
 }
