@@ -7,9 +7,46 @@
         "id": "3",
         "name": "Design"
       },
-      "cost": 0,
-      "services": [],
+      "cost": null,
+      "services": [
+        {
+          "name": "teste3",
+          "cost": "13",
+          "description": "Retiraro o lixo com um caminhão de lixo",
+          "id": "a928d10c-c973-4fa8-927b-c85014c662d6"
+        },
+        {
+          "name": "teste3",
+          "cost": "2",
+          "description": "Retiraro o lixo com um caminhão de lixo",
+          "id": "50bfdc03-eb61-411e-9e93-6421f7cd571d"
+        },
+        {
+          "name": "teste3",
+          "cost": "9",
+          "description": "Retiraro o lixo com um caminhão de lixo",
+          "id": "b25a2e0b-8ef2-427f-95ed-b6a6bc9a3fce"
+        }
+      ],
       "id": 3
+    },
+    {
+      "name": "Victor Azzolini",
+      "budget": "154000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": null,
+      "services": [
+        {
+          "name": "Pedro",
+          "cost": "3333",
+          "description": "manop",
+          "id": "2a92e5ee-1e7f-475a-9659-4e3e5060d67e"
+        }
+      ],
+      "id": 4
     }
   ],
   "categories": [

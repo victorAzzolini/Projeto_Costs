@@ -4,7 +4,7 @@
 
 .project_main {
     display: block;
-    width: 100%;
+    width: 100%
 }
 
 .project_details h1,
@@ -52,4 +52,10 @@
 
 .project_info {
     width: 100%;
+}
+
+.service_container {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
 }
